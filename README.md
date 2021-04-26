@@ -1,9 +1,5 @@
 # Music Player
 
-	[GitHub](https://www.example.com)
-
-    ## Music Player
-
 Create a music player with JavaScript/HTML/CSS
 
 ## Project Specifications
@@ -12,3 +8,6 @@ Create a music player with JavaScript/HTML/CSS
 - Add play and pause functionality
 - Switch songs
 - Progress bar
+
+  [GitHub](https://github.com/N-Person/musicplayer)
+  [GitHub URL](<[GitHub](https://github.com/N-Person/musicplayer)>)
